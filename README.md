@@ -75,7 +75,10 @@ Janela dedicada com 4 modos de análise:
 ## 📁 Estrutura do Projeto
 
 SuporteTools/
+
+
 ├── Launcher.ps1   # Script principal (interface + lógica)
+
 └── README.md      # Este arquivo
 
 ✅ Zero dependências externas — tudo embutido em um único arquivo .ps1.
@@ -93,7 +96,7 @@ Proibida a redistribuição comercial sem autorização.
 
 ## 💬 Feedback
 Encontrou um bug? Tem uma ideia de melhoria?
-Abra uma issue ou envie um e-mail para [robsoncyberdefense@gmail.com].
+Abra uma issue ou envie um e-mail para robsoncyberdefense@gmail.com.
 
 "Ferramentas simples, bem feitas, resolvem problemas complexos."
 — SuporteTools v1.0
