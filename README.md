@@ -82,11 +82,15 @@ Janela dedicada com 4 modos de análise:
 - "Logs" para eventos e histórico
 💡 Dica: crie um atalho .lnk com “Executar como administrador”.
 
+---
+
 ## 📁 Estrutura do Projeto
 SuporteTools/
 ├── Launcher.ps1          # Script principal (interface + lógica)
 └── README.md             # Este arquivo
 ✅ Zero dependências externas — tudo embutido em um único arquivo .ps1.
+
+---
 
 ## 🔒 Segurança e Privacidade
 - Sem telemetria: Nenhum dado é enviado para servidores externos
@@ -94,9 +98,13 @@ SuporteTools/
 - Isolamento: Todos os arquivos são salvos em %LOCALAPPDATA%\SuporteTools
 - Elevação controlada: Solicita UAC apenas quando necessário
 
+---
+
 ## 📄 Licença
 Este projeto é de uso livre para fins pessoais, educacionais ou corporativos internos.
 Proibida a redistribuição comercial sem autorização.
+
+---
 
 ## 💬 Feedback
 Encontrou um bug? Tem uma ideia de melhoria?
