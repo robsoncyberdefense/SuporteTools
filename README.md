@@ -1,3 +1,8 @@
+![SuporteTools Banner](banner-suportetools.png)
+<p align="center">
+  <img src="logo-suportetools.png" width="180"/>
+</p>
+
 # 🛠️ SuporteTools v1.0 
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
