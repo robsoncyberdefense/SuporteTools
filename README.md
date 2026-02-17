@@ -84,15 +84,17 @@ Janela dedicada com 4 modos de análise:
 
 ---
 
-## 📁 Estrutura do Projeto
+📁 Estrutura do Projeto
+
 SuporteTools/
 ├── Launcher.ps1          # Script principal (interface + lógica)
 └── README.md             # Este arquivo
+
 ✅ Zero dependências externas — tudo embutido em um único arquivo .ps1.
 
 ---
 
-## 🔒 Segurança e Privacidade
+🔒 Segurança e Privacidade
 - Sem telemetria: Nenhum dado é enviado para servidores externos
 - Download seguro: As ferramentas Sysinternals são baixadas diretamente da Microsoft
 - Isolamento: Todos os arquivos são salvos em %LOCALAPPDATA%\SuporteTools
@@ -100,13 +102,13 @@ SuporteTools/
 
 ---
 
-## 📄 Licença
+📄 Licença
 Este projeto é de uso livre para fins pessoais, educacionais ou corporativos internos.
 Proibida a redistribuição comercial sem autorização.
 
 ---
 
-## 💬 Feedback
+💬 Feedback
 Encontrou um bug? Tem uma ideia de melhoria?
 Abra uma issue ou envie um e-mail para [robsoncyberdefense@gmail.com].
 
