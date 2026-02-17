@@ -10,8 +10,8 @@ Um launcher técnico PowerShell com interface WPF para administração, diagnós
 O **SuporteTools** é uma aplicação desktop leve, escrita 100% em **PowerShell + WPF**, que centraliza ferramentas essenciais de suporte técnico em uma única interface moderna e intuitiva.
 
 Não requer instalação, não deixa vestígios e roda diretamente de qualquer pasta — ideal para ambientes corporativos, laboratórios de TI ou uso pessoal avançado.
-## 
-✨ Funcionalidades Principais
+
+## ✨ Funcionalidades Principais
 
 #🔧 Ferramentas Integradas
 
