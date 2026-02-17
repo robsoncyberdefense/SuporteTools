@@ -75,7 +75,9 @@ Janela dedicada com 4 modos de análise:
 ## 📁 Estrutura do Projeto
 
 SuporteTools/
+
 ├── Launcher.ps1   # Script principal (interface + lógica)
+
 └── README.md      # Este arquivo
 
 ✅ Zero dependências externas — tudo embutido em um único arquivo .ps1.
