@@ -11,8 +11,6 @@ O **SuporteTools** é uma aplicação desktop leve, escrita 100% em **PowerShell
 
 Não requer instalação, não deixa vestígios e roda diretamente de qualquer pasta — ideal para ambientes corporativos, laboratórios de TI ou uso pessoal avançado.
 
----
-
 ## ✨ Funcionalidades Principais
 
 ### 🔧 Ferramentas Integradas
