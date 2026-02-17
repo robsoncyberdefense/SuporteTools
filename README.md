@@ -13,14 +13,12 @@ Não requer instalação, não deixa vestígios e roda diretamente de qualquer p
 
 ## ✨ Funcionalidades Principais
 
-# 🔧 Ferramentas Integradas
+### 🔧 Ferramentas Integradas
 
 - Sysinternals ao vivo: download automático direto da Microsoft (`live.sysinternals.com`)
 - Comandos de rede e manutenção: `ipconfig`, `ping`, `netstat`, `sfc /scannow`, `DISM`
 - Limpeza inteligente de arquivos temporários
 - Atualização automática das ferramentas Sysinternals com 1 clique
-
----
 
 ### 🔍 Análise Técnica Avançada
 
@@ -43,21 +41,21 @@ Janela dedicada com 4 modos de análise:
 - Inclui tarefas agendadas com trigger de logon
 - Permite abrir caminho ou analisar comando de inicialização
 
-# 📊 Recursos adicionais
+## 📊 Recursos adicionais
 
 - Logs integrados (execução + Event Viewer)
 - Busca inteligente por nome, categoria ou descrição
 - Detecção de privilégios e solicitação de elevação (UAC)
 - Interface moderna com tema escuro e foco em UX para técnicos
 
-# ⚙️ Requisitos
+## ⚙️ Requisitos
 
 - Windows 10 ou 11 (64-bit)
 - PowerShell 5.1
 - Permissões de administrador (recomendado)
 - Internet (apenas para baixar Sysinternals)
 
-# ▶️ Como usar
+## ▶️ Como usar
 
 1. Baixe o arquivo:
    - `Launcher.ps1`
@@ -74,7 +72,7 @@ Janela dedicada com 4 modos de análise:
 - "Logs" para eventos e histórico
 💡 Dica: crie um atalho .lnk com “Executar como administrador”.
 
-# 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 SuporteTools/
 ├── Launcher.ps1          # Script principal (interface + lógica)
@@ -83,19 +81,20 @@ SuporteTools/
 ✅ Zero dependências externas — tudo embutido em um único arquivo .ps1.
 
 
-# 🔒 Segurança e Privacidade
+## 🔒 Segurança e Privacidade
 - Sem telemetria: Nenhum dado é enviado para servidores externos
 - Download seguro: As ferramentas Sysinternals são baixadas diretamente da Microsoft
 - Isolamento: Todos os arquivos são salvos em %LOCALAPPDATA%\SuporteTools
 - Elevação controlada: Solicita UAC apenas quando necessário
 
-# 📄 Licença
+## 📄 Licença
 Este projeto é de uso livre para fins pessoais, educacionais ou corporativos internos.
 Proibida a redistribuição comercial sem autorização.
 
-# 💬 Feedback
+## 💬 Feedback
 Encontrou um bug? Tem uma ideia de melhoria?
 Abra uma issue ou envie um e-mail para [robsoncyberdefense@gmail.com].
 
+----
 "Ferramentas simples, bem feitas, resolvem problemas complexos."
 — SuporteTools v1.0
