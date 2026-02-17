@@ -1,4 +1,13 @@
-# 🛠️ SuporteTools v1.0
+# 🛠️ SuporteTools v1.0 
+
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?logo=windows)
+![WPF](https://img.shields.io/badge/UI-WPF-512BD4?logo=.net)
+![Security](https://img.shields.io/badge/Focus-IT%20Support%20%7C%20Security-2ea44f)
+![License](https://img.shields.io/badge/License-Free%20Use-lightgrey)
+
 
 Um launcher técnico PowerShell com interface WPF para administração, diagnóstico e análise de software no Windows.
 
