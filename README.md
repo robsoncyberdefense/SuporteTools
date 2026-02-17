@@ -82,9 +82,7 @@ Janela dedicada com 4 modos de análise:
 - "Logs" para eventos e histórico
 💡 Dica: crie um atalho .lnk com “Executar como administrador”.
 
----
-
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 SuporteTools/
 ├── Launcher.ps1          # Script principal (interface + lógica)
@@ -92,7 +90,6 @@ SuporteTools/
 
 ✅ Zero dependências externas — tudo embutido em um único arquivo .ps1.
 
----
 
 🔒 Segurança e Privacidade
 - Sem telemetria: Nenhum dado é enviado para servidores externos
