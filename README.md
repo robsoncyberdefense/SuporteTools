@@ -72,8 +72,9 @@ Janela dedicada com 4 modos de análise:
 
 2. Execute como Administrador: 
 
-- ```powershell
+```powershell
 `powershell -ExecutionPolicy Bypass -File .\Launcher.ps1`
+```
 
 3. Use os recursos da interface:
 - "Executar" para ferramentas
