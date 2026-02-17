@@ -13,7 +13,7 @@ Não requer instalação, não deixa vestígios e roda diretamente de qualquer p
 
 ## ✨ Funcionalidades Principais
 
-#🔧 Ferramentas Integradas
+# 🔧 Ferramentas Integradas
 
 - Sysinternals ao vivo: download automático direto da Microsoft (`live.sysinternals.com`)
 - Comandos de rede e manutenção: `ipconfig`, `ping`, `netstat`, `sfc /scannow`, `DISM`
